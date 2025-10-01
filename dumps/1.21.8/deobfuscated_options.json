@@ -1,0 +1,431 @@
+{
+  "monochromeLogo": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "hideLightningFlashes": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "hideSplashTexts": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "mouseSensitivity": {
+    "kind": "double"
+  },
+  "viewDistance": {
+    "kind": "int"
+  },
+  "simulationDistance": {
+    "kind": "int"
+  },
+  "entityDistanceScaling": {
+    "kind": "double"
+  },
+  "maxFps": {
+    "kind": "int"
+  },
+  "inactivityFpsLimit": {
+    "values": [
+      "MINIMIZED",
+      "AFK"
+    ],
+    "kind": "enum"
+  },
+  "cloudRenderMode": {
+    "values": [
+      "OFF",
+      "FAST",
+      "FANCY"
+    ],
+    "kind": "enum"
+  },
+  "cloudRenderDistance": {
+    "kind": "int"
+  },
+  "graphicsMode": {
+    "values": [
+      "FAST",
+      "FANCY",
+      "FABULOUS"
+    ],
+    "kind": "enum"
+  },
+  "ao": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "chunkBuilderMode": {
+    "values": [
+      "NONE",
+      "PLAYER_AFFECTED",
+      "NEARBY"
+    ],
+    "kind": "enum"
+  },
+  "chatVisibility": {
+    "values": [
+      "FULL",
+      "SYSTEM",
+      "HIDDEN"
+    ],
+    "kind": "enum"
+  },
+  "chatOpacity": {
+    "kind": "double"
+  },
+  "chatLineSpacing": {
+    "kind": "double"
+  },
+  "menuBackgroundBlurriness": {
+    "kind": "int"
+  },
+  "textBackgroundOpacity": {
+    "kind": "double"
+  },
+  "panoramaSpeed": {
+    "kind": "double"
+  },
+  "highContrast": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "highContrastBlockOutline": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "narratorHotkey": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "mainArm": {
+    "values": [
+      "LEFT",
+      "RIGHT"
+    ],
+    "kind": "enum"
+  },
+  "chatScale": {
+    "kind": "double"
+  },
+  "chatWidth": {
+    "kind": "double"
+  },
+  "chatHeightUnfocused": {
+    "kind": "double"
+  },
+  "chatHeightFocused": {
+    "kind": "double"
+  },
+  "chatDelay": {
+    "kind": "double"
+  },
+  "notificationDisplayTime": {
+    "kind": "double"
+  },
+  "mipmapLevels": {
+    "kind": "int"
+  },
+  "attackIndicator": {
+    "values": [
+      "OFF",
+      "CROSSHAIR",
+      "HOTBAR"
+    ],
+    "kind": "enum"
+  },
+  "biomeBlendRadius": {
+    "kind": "int"
+  },
+  "mouseWheelSensitivity": {
+    "kind": "double"
+  },
+  "rawMouseInput": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "autoJump": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "rotateWithMinecart": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "operatorItemsTab": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "autoSuggestions": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "chatColors": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "chatLinks": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "chatLinksPrompt": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "enableVsync": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "entityShadows": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "forceUnicodeFont": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "japaneseGlyphVariants": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "invertYMouse": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "discreteMouseScroll": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "realmsNotifications": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "allowServerListing": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "reducedDebugInfo": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "showSubtitles": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "directionalAudio": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "backgroundForChatOnly": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "touchscreen": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "fullscreen": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "bobView": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "sneakToggled": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "sprintToggled": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "hideMatchedNames": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "showAutosaveIndicator": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "onlyShowSecureChat": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "fov": {
+    "kind": "int"
+  },
+  "telemetryOptInExtra": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  },
+  "distortionEffectScale": {
+    "kind": "double"
+  },
+  "fovEffectScale": {
+    "kind": "double"
+  },
+  "darknessEffectScale": {
+    "kind": "double"
+  },
+  "glintSpeed": {
+    "kind": "double"
+  },
+  "glintStrength": {
+    "kind": "double"
+  },
+  "damageTiltStrength": {
+    "kind": "double"
+  },
+  "gamma": {
+    "kind": "double"
+  },
+  "guiScale": {
+    "kind": "int"
+  },
+  "particles": {
+    "values": [
+      "ALL",
+      "DECREASED",
+      "MINIMAL"
+    ],
+    "kind": "enum"
+  },
+  "narrator": {
+    "values": [
+      "OFF",
+      "ALL",
+      "CHAT",
+      "SYSTEM"
+    ],
+    "kind": "enum"
+  },
+  "soundDevice": {
+    "class": "java.lang.String",
+    "kind": "complex"
+  },
+  "musicFrequency": {
+    "values": [
+      "DEFAULT",
+      "FREQUENT",
+      "CONSTANT"
+    ],
+    "kind": "enum"
+  },
+  "showNowPlayingToast": {
+    "values": [
+      "true",
+      "false"
+    ],
+    "kind": "bool"
+  }
+}
